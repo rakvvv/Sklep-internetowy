@@ -2,21 +2,21 @@
 
 ## Konfiguracja JavaFX w IntelliJ IDEA
 
-Aby poprawnie skonfigurować JavaFX w IntelliJ IDEA, wykonaj następujące kroki:
+Aby poprawnie skonfigurować JavaFX w IntelliJ IDEA, wykonać następujące kroki:
 
 ### Krok 1: Dodanie Ścieżki JavaFX do Modułu
 
-1. Otwórz projekt w IntelliJ IDEA.
-2. Przejdź do `File > Project Structure > Modules`.
-4. Przejdź do zakładki `Dependencies`.
-5. Kliknij ikonę `+` i wybierz `JARs or directories`.
-6. Dodaj ścieżkę do katalogu `lib` JavaFX SDK (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
-7. Upewnij się, że są one oznaczone jako `Compile`.
+1. Otwórzyć projekt w IntelliJ IDEA.
+2. Przejść do `File > Project Structure > Modules`.
+4. Przejść do zakładki `Dependencies`.
+5. Kliknąć ikonę `+` i wybierz `JARs or directories`.
+6. Dodać ścieżkę do katalogu `lib` JavaFX SDK (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
+7. Upewnić się, że są one oznaczone jako `Compile`.
 
 ### Krok 2: Skonfigurowanie Opcji VM w Konfiguracji Uruchamiania
 
-1. Przejdź do `Run > Edit Configurations`.
-2. W Main do pola `VM options` dodaj odpwiednią scieżkę (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
+1. Przejść do `Run > Edit Configurations`.
+2. W Main do pola `VM options` dodać odpwiednią scieżkę (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
 
 ## Dane do logowania do bazy danych
 
