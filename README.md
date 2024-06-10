@@ -17,3 +17,15 @@ Aby poprawnie skonfigurować JavaFX w IntelliJ IDEA, wykonaj następujące kroki
 
 1. Przejdź do `Run > Edit Configurations`.
 2. W Main do pola `VM options` dodaj odpwiednią scieżkę (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
+
+## Dane do logowania do bazy danych
+
+SQL Developer:
+
+- **Nazwa:** sklepinterentowy
+- **Typ bazy danych:** Oracle
+- **Nazwa użytkownika:** sklepinterentowy
+- **Hasło:** sklepinternetowy
+- **Hostname:** localhost
+- **Port:** 1521
+- **Nazwa usługi:** XEPDB1
