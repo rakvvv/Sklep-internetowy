@@ -9,7 +9,7 @@ Aby poprawnie skonfigurować JavaFX w IntelliJ IDEA, wykonać następujące krok
 1. Otwórzyć projekt w IntelliJ IDEA.
 2. Przejść do `File > Project Structure > Modules`.
 4. Przejść do zakładki `Dependencies`.
-5. Kliknąć ikonę `+` i wybierz `JARs or directories`.
+5. Kliknąć ikonę `+` i wybierć `JARs or directories`.
 6. Dodać ścieżkę do katalogu `lib` JavaFX SDK (np. `C:\Scieżka\javafx-sdk-22.0.1\lib`).
 7. Upewnić się, że są one oznaczone jako `Compile`.
 
